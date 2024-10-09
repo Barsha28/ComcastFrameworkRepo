@@ -37,6 +37,9 @@ private WebElement signOutLink;
 public WebElement getNavOrgLink() {
 	return NavOrgLink;
 }
+public WebElement getNavProductLink() {
+	return NavProductLink;
+}
 
 public WebElement getContactLink() {
 	return contactLink;
