@@ -10,6 +10,6 @@ import com.comcast.crm.generic.webdriverutility.WebDriverUtility;
 public class CreateNewOrganizationPage {
 
 	public static void main(String[] args) {
-		
+		//code
 	}
 }
